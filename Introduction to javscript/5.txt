@@ -1,0 +1,12 @@
+
+Feature	    null	                                undefined
+
+Type	    Object (historically)	                Undefined
+
+Meaning	    Represents an intentional               Represents an uninitialized variable 
+            absence of any value	                or absence of value 
+                                                
+Usage	    Explicitly assigned by a                Automatically 
+            programmer	                            assigned by JavaScript
+            
+Typeof	    typeof null returns "object"	        typeof undefined returns "undefined"
